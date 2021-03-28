@@ -1,7 +1,3 @@
-// body{
-  background-color: cadetblue
-}
-
 body {
   background-image: linear-gradient(lavenderblush, palevioletred);
 
@@ -19,5 +15,4 @@ img {
 
 .text {
   text-align: center;
-  color: white
 }
